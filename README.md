@@ -1,6 +1,7 @@
 # Radius PAP Password Decryptor
 
-Python script which can be used to Decrypt the encrypted password from captured RADIUS traffic
+Python script which can be used to Decrypt the encrypted password from captured RADIUS traffic.
+
 
 
 DISCLAIMER
