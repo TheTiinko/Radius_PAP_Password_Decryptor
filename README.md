@@ -6,7 +6,6 @@ The required modules for this script should already be in the new Python3 versio
 - hashlib (md5)
 - binascii
 
-
 The details on how the RADIUS password encryption works can be found in An Analysis of the RADIUS Authentication Protocol by Joshua Hill, currently at the link https://www.untruth.org/~josh/security/radius/radius-auth.html.
 
 # HOW DOES IT WORK
@@ -20,6 +19,7 @@ The details on how the RADIUS password encryption works can be found in An Analy
 # TODO
 
 - code currently works only if the user password is less than 16 charaters
+
 
 # DISCLAIMER
 
