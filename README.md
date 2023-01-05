@@ -16,6 +16,10 @@ The details on how the RADIUS password encryption works can be found in An Analy
 4. Fill out the input
 5. Wait for the code to perform the brute force
 
+NOTE
+
+Check out the pictures that reference where information in the captured traffic can be found.
+
 # TODO
 
 - code currently works only if the user password is less than 16 charaters
