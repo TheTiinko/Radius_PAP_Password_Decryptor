@@ -1,12 +1,12 @@
 # Radius PAP Password Decryptor
 
-Python script which can be used to Decrypt the encrypted password from captured RADIUS traffic.
+Python script which can be used to decrypt the encrypted password from captured RADIUS traffic.
 
 The required modules for this script should already be in the new Python3 versions, but in any case the required modules are:
 - hashlib (md5)
 - binascii
 
-The details on how the RADIUS password encryption works can be found in An Analysis of the RADIUS Authentication Protocol by Joshua Hill, currently at the link https://www.untruth.org/~josh/security/radius/radius-auth.html.
+The details on how the RADIUS password encryption works can be found in An Analysis of the RADIUS Authentication Protocol by Joshua Hill specifically chapter 2.1., currently at the link https://www.untruth.org/~josh/security/radius/radius-auth.html. Alo check out the RADIUS RFC at https://www.rfc-editor.org/rfc/rfc2865.
 
 # HOW DOES IT WORK
 
