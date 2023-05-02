@@ -27,4 +27,4 @@ Check out the pictures that reference where information in the captured traffic 
 
 # DISCLAIMER
 
-The information and code in this repository is for educational puproses regarding the topic of ethical hacking, penetration testing and similar fields of computer scinece. I will not assume responsibility for the malicious use or damage done if this information and/or code is to be used in an unethical way.
+The information and code in this repository is for educational puproses regarding the topic of ethical hacking, penetration testing and similar fields of computer science. I will not assume responsibility for the malicious use or damage done if this information and/or code is to be used in an unethical way.
